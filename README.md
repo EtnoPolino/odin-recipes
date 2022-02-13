@@ -1,1 +1,1 @@
-Description of the project RECIPES
+Description of the project RECIPES - Odin project.
